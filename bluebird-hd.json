@@ -1,0 +1,12 @@
+// ==UserScript==
+// @name Bluebird-hd
+// @icon data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAWdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjA76PVpAAAAWElEQVQ4T2MYnICZmfk/lAkH2MTwAmQNJGuGAZBGojTDFJKKodohBvy6yQTBTRBs8QuCmTR+gfEvJqA4EJ9g+gXGowYMSgPIwVDtuAHRCrEBZJtwG8LAAABECQFiIJXmeQAAAABJRU5ErkJggg==
+// @trackerURL https://bluebird-hd.org/
+// @version 1.0
+// @connect *:///bluebird-hd.org
+// @require exKit
+// @downloadURL https://raw.githubusercontent.com/Feverqwe/tSearch/master/external/newstudio_tv.json
+// ==/UserScript==
+const code = 
+
+API_exKit(code);
