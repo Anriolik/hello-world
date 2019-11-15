@@ -1,1 +1,1 @@
-
+{"version":3,"type":"kit","description":{"icon":"#d9b797","name":"bluebird-hd.org","version":"1.0"},"search":{"url":"https://bluebird-hd.org/browse.php?","method":"GET","encoding":"cp1251","query":"search=%search%"},"auth":{"url":"https://bluebird-hd.org/login.php","loginForm":{"selector":"td.outer > div > form"}},"selectors":{"row":{"selector":""},"title":{"selector":""},"url":{"selector":""}}}
